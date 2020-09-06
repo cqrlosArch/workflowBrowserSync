@@ -1,0 +1,18 @@
+$mainbg:pink;
+
+body{
+    background-color: $mainbg;
+}
+body{
+    background-color: $mainbg;
+}
+.box{
+    background-color: #fff;
+    width: 300px;
+    height: 300px;
+   background-image: url("../images/img.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+}
