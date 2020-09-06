@@ -1,12 +1,12 @@
 # Workflow Webpack: Babel, Sass, Pug, Images, Files & Browser-Sync
 
 ## Start Proyect: 
-- Para desarrollo: 
+- Developer: 
 ```bash
     ``npm run start`` ó ``yarn start``
 ```
 
-- Para producción: 
+- Production: 
 ```bash
     ``npm run build`` ó ``yarn build``
     
